@@ -1,0 +1,11 @@
+name: SeeItem
+author: NickteeChunky
+description: See any [item]ed player's held item.
+main: SeeItem\SeeItem
+version: 0.1
+api: [3.0.0]
+load: STARTUP
+commands:
+  seeitem:
+    aliases: [seei]
+    description: "See an item another player has [item]ed"
